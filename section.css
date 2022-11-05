@@ -10,31 +10,31 @@
 }
 
 .section.one {
-	background-image: url(./media/1.avif);
+	background-image: url(./1.avif);
 }
 
 .section.two {
-	background-image: url(./media/2.avif);
+	background-image: url(./2.avif);
 }
 
 .section.three {
-	background-image: url(./media/3.avif);
+	background-image: url(./3.avif);
 }
 
 .section.four {
-	background-image: url(./media/4.avif);
+	background-image: url(./4.avif);
 }
 
 .section.five {
-	background-image: url(./media/5.avif);
+	background-image: url(./5.avif);
 }
 
 .section.six {
-	background-image: url(./media/6.avif);
+	background-image: url(./6.avif);
 }
 
 .section.seven {
-	background-image: url(./media/7.avif);
+	background-image: url(./7.avif);
 }
 
 .section__content {
